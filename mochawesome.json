@@ -1,0 +1,5 @@
+
+  {
+    "title": "My Cypress Test Results",
+    "reporter": "mochawesome"
+  }

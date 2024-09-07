@@ -1,0 +1,22 @@
+{
+  "name": "cypresstoday",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "author": "ceejay",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.40.2",
+      "cypress": "^13.10.0",
+    "cypress-mochawesome-reporter": "^3.8.2",
+    "cypress-multi-reporters": "^1.6.4"
+   
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mocha-junit-reporter": "^2.2.1"
+  }
+}
