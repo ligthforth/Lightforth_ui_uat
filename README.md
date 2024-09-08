@@ -1,4 +1,4 @@
-# Salary Insights - Automated Tests (Cypress)
+# Cv Builder - Automated Tests (Cypress)
 
 - This project contains automated tests for landing page on https://lightforth.org/ using Cypress.
 
